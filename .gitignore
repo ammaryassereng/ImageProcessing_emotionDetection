@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Dataset
+train/
+train2/
+train3/
+trainMix/
+Images/
+OldTraining/
+FaceDetection/
+
 # Distribution / packaging
 .Python
 build/
