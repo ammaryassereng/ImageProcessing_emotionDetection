@@ -11,6 +11,7 @@ from skimage.color import rgb2gray,rgb2hsv
 from scipy.signal import convolve2d
 from scipy import fftpack
 import math
+from skimage.exposure import rescale_intensity
 
 from skimage.util import random_noise
 from skimage.filters import median
