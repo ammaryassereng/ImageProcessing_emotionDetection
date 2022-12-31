@@ -12,6 +12,8 @@ train2/
 train3/
 trainMix/
 Images/
+OldTraining/
+FaceDetection/
 
 # Distribution / packaging
 .Python
