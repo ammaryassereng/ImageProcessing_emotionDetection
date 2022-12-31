@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Dataset
+train/
+train2/
+train3/
+trainMix/
+Images/
+
 # Distribution / packaging
 .Python
 build/
